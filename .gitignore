@@ -1,3 +1,10 @@
+# Image files
+*.gif
+*.jpg
+
+# IDE
+.idea/
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
